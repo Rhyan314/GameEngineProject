@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6EeHAT62XIotdSNX3hd1bszxanncOVlZecQudAPSOVqVsyCoL4uteUaJ5UJJPZcU33R59MpVqdFRevVq8CwVw==",
+  "success": true,
+  "projectFilePath": "E:\\VisualStudioProjects\\MonoGame Projects\\SpaceInvaders\\SpaceInvaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rhyan\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\rhyan\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\rhyan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\rhyan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\rhyan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\rhyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Buttons/Credits.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Buttons/Home.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Buttons/Play.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Buttons/Return.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Generics/Background.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Generics/Blank2x2.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Generics/GameOver.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Generics/GameOverTwo.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Generics/HomeLogo.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Generics/SpaceInvadersSpritesEditor.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/mainFont.spritefont</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/EnemyBullet.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/EnemyExplosion.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/EnemyExplosionEnd.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/EnemyOne.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/EnemyThree.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/EnemyTwo.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/Mothership.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/Player.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/PlayerBullet.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/PlayerBulletExplosion.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/Sprites/Wall.png</File>
+    <File>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/titleFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

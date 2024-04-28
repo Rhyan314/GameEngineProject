@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/mainFont.spritefont</SourceFile>
+  <SourceTime>2024-04-26T18:49:48.5467694-03:00</SourceTime>
+  <DestFile>E:/VisualStudioProjects/MonoGame Projects/SpaceInvaders/Content/bin/DesktopGL/mainFont.xnb</DestFile>
+  <DestTime>2024-04-27T14:50:31.9631484-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T08:44:56-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T08:44:56-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
